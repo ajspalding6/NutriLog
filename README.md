@@ -1,14 +1,30 @@
 #NutriLog
 Overview
+
 This is a simple Python application for tracking your food intake. It provides a user interface where you can manage a list of food items, record the amount you've eaten, and keep track of the calories and protein consumed. The app uses the Kivy framework for the graphical user interface.
 
 Features
-Food List: Maintain a list of different food items.
-Eating Diary: Record your daily food intake with serving sizes, calories, and protein content.
-Editing and Deleting: Easily edit or delete entries from both the food list and eating diary.
-Goals: Set and track your daily goals for calories and protein.
+
+Food List: 
+
+Maintain a list of different food items.
+
+Eating Diary: 
+
+Record your daily food intake with serving sizes, calories, and protein content.
+
+Editing and Deleting:
+
+Easily edit or delete entries from both the food list and eating diary.
+
+Goals: 
+
+Set and track your daily goals for calories and protein.
+
 Requirements
+
 Python 3
+
 Kivy
 
 Add Food Items:
