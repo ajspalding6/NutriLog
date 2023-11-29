@@ -40,6 +40,7 @@ Clear Diary:
 Click on "Clear Diary" to remove all entries from your eating diary. This action is irreversible.
 
 File Structure:
+
   app.py: Main application script.
   
   database.py: File containing database-related functions.
