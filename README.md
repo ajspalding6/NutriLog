@@ -41,11 +41,17 @@ Click on "Clear Diary" to remove all entries from your eating diary. This action
 
 File Structure:
   app.py: Main application script.
+  
   database.py: File containing database-related functions.
+  
   food_items.txt: File storing the list of food items.
+  
   calorite_count.txt: File storing the calories corresponding to each food item.
+  
   protein_count.txt: File storing the protein content corresponding to each food item.
+  
   eating_diary.txt: File storing the daily food intake entries.
+  
   time_file.txt: File storing the last recorded date.
 
 Acknowledgments
