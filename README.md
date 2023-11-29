@@ -6,26 +6,20 @@ This is a simple Python application for tracking your food intake. It provides a
 Features
 
 Food List: 
-
-Maintain a list of different food items.
+  Maintain a list of different food items.
 
 Eating Diary: 
-
-Record your daily food intake with serving sizes, calories, and protein content.
+  Record your daily food intake with serving sizes, calories, and protein content.
 
 Editing and Deleting:
-
-Easily edit or delete entries from both the food list and eating diary.
+  Easily edit or delete entries from both the food list and eating diary.
 
 Goals: 
-
-Set and track your daily goals for calories and protein.
+  Set and track your daily goals for calories and protein.
 
 Requirements
-
-Python 3
-
-Kivy
+  Python 3
+  Kivy
 
 Add Food Items:
 Click on "Add Item" to add new food items to your list.
