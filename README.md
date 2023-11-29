@@ -17,7 +17,7 @@ Editing and Deleting:
 Goals: 
   Set and track your daily goals for calories and protein.
 
-Requirements
+Requirements:
   Python 3
   Kivy
 
@@ -39,7 +39,7 @@ Clear Diary:
 
 Click on "Clear Diary" to remove all entries from your eating diary. This action is irreversible.
 
-File Structure
+File Structure:
   app.py: Main application script.
   database.py: File containing database-related functions.
   food_items.txt: File storing the list of food items.
