@@ -55,5 +55,6 @@ File Structure:
   
   time_file.txt: File storing the last recorded date.
 
-Acknowledgments
+Acknowledgments:
+
   This application was created using the Kivy framework. Kivy is an open-source Python library for developing multi-touch applications. Visit Kivy for more information.
