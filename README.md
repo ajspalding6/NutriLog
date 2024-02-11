@@ -3,6 +3,8 @@ Overview
 
 This is a simple Python application for tracking your food intake. It provides a user interface where you can manage a list of food items, record the amount you've eaten, and keep track of the calories and protein consumed. The app uses the Kivy framework for the graphical user interface.
 
+***More advanced development is in progress to consolidate and provide clearer execution of the source code***
+
 Features
 
 Food List: 
